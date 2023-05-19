@@ -1,0 +1,15 @@
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\bin\Debug\net7.0\05192023.exe
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\bin\Debug\net7.0\05192023.deps.json
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\bin\Debug\net7.0\05192023.runtimeconfig.json
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\bin\Debug\net7.0\05192023.dll
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\bin\Debug\net7.0\05192023.pdb
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.csproj.AssemblyReference.cache
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.AssemblyInfoInputs.cache
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.AssemblyInfo.cs
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.csproj.CoreCompileInputs.cache
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.dll
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\refint\05192023.dll
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.pdb
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\05192023.genruntimeconfig.cache
+C:\Revature\ArturGevorgyan007\CodingChallenges\05192023\obj\Debug\net7.0\ref\05192023.dll
